@@ -1,0 +1,32 @@
+{
+    "comidas_do_mundo" : [
+        {"nome": "Acarajé",
+            "calorias": 1250,
+            "descricao": "O acarajé é um dos quitutes mais tradicionais da culinária baiana e é um prato típico africano que pode ser oferecido à orixás. Para fazê-lo, utiliza-se feijão-fradinho com cebola e sal que formará uma massa que será frita no azeite de dendê. Após ser frito, é cortado no meio e inserido o recheio com um molho refogado no azeite composto por camarão, pimenta e cebola.",
+            "imagem": "acaraje",
+            "restaurante": "Bahia Gourmet"
+        },
+        {
+            "nome": "Polenta",
+            "calorias": 2000,
+            "descricao": "A polenta é uma comida típica italiana, mas muito consumida em países como o Brasil, no Paraguai e na Argentina. É um prato feito com farinha de milho, mas antes, a principal base era a farinha de aveia e outros cereais. Era muito consumida pelos romanos na antiguidade. Somente após a chegada dos espanhóis das Américas é que o milho foi introduzido à alimentação e servido como base da receita de polenta. Atualmente, ela pode ser consumida frita, mole, grelhada ou dura, com a adição de diversos molhos.",
+            "imagem": "Polenta",
+            "restaurante": "Minas Gerias Gourmet"
+        },
+        {
+            "nome": "Guacamole",
+            "calorias": 1000,
+            "descricao": "O guacamole é uma iguaria típica da culinária do México, servida com uma grande variedade de pratos e geralmente acompanhada com pico-de-gallo e nata azeda.",
+            "imagem": "Guacamole",
+            "restaurante": "México Gourmet"
+        },
+        {
+            "nome": "Yakissoba",
+            "calorias": 3000,
+            "descricao": "Um dos pratos de origem chinesa reconhecidos em todo o mundo é o macarrão de sobá que pode ser frito ou não, e adicionados legumes, verduras com ou sem carne. Foram os imigrantes que trouxeram essa novidade para os brasileiros, mas pela dificuldade em encontrar o macarrão, muitos reproduzem a receita com lámen cozido.",
+            "imagem": "Yakissoba",
+            "restaurante": "Japão Gourmet"
+        }
+    ]
+}
+
